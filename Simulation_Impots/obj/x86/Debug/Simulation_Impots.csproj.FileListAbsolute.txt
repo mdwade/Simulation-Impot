@@ -1,0 +1,5 @@
+/home/mouhamed/Projects/Simulation_Impots/Simulation_Impots/bin/Debug/Simulation_Impots.exe
+/home/mouhamed/Projects/Simulation_Impots/Simulation_Impots/bin/Debug/Simulation_Impots.pdb
+/home/mouhamed/Projects/Simulation_Impots/Simulation_Impots/obj/x86/Debug/Simulation_Impots.csprojAssemblyReference.cache
+/home/mouhamed/Projects/Simulation_Impots/Simulation_Impots/obj/x86/Debug/Simulation_Impots.exe
+/home/mouhamed/Projects/Simulation_Impots/Simulation_Impots/obj/x86/Debug/Simulation_Impots.pdb
